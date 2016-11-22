@@ -1,1 +1,3 @@
 # demoJHipster
+Instalación:
+$ npm install
